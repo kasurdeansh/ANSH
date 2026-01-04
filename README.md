@@ -1,4 +1,2 @@
-# ANSH
-This is my first git repository.
-<br>
-Author - ANSH KASURDE
+This repository is created to learn Git and GitHub.
+I am preparing for GSoC with consistent practice.
